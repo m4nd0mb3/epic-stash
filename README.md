@@ -31,6 +31,10 @@ EpicStash offers a variety of features to enhance your storage experience:
 - **Download:** Retrieve your stored files quickly and securely.
 - **Security:** Explore our advanced security settings to customize access controls and encryption options.
 
+## License
+
+EpicStash is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0). See the [LICENSE](LICENSE) file for more details.
+
 ## Support and Contact
 
 For assistance or inquiries, reach out to our support team at support@epicstash.com. We're here to help you make the most of EpicStash!
